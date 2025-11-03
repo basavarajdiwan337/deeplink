@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.girmiti.sensei_consumer",
+      "sha256_cert_fingerprints": [
+        "8A:C8:D7:B8:08:44:EE:5E:59:A9:51:7E:13:90:72:B7:97:2D:1D:F6:E6:4A:65:D6:19:69:03:BC:12:6D:50:1B"
+      ]
+    }
+  }
+]
